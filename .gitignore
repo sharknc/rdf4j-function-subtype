@@ -31,5 +31,6 @@ proguard/
 #Gradle
 .gradletasknamecache
 .gradle/
-build/
+!build/libs/rdf4j-function-palindrome-1.0-SNAPSHOT.jar
 bin/
+build/
